@@ -1,0 +1,17 @@
+.boton-click, .boton-reiniciar{
+    height: 10vh;
+    width: 20vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5vh;
+    border-radius: 10px;
+    margin-top: 1vh;
+}
+.boton-click{
+    background-color: #880806;
+}
+.boton-reiniciar{
+    background-color: #7d3559;
+}
+.boton-click:hover{
+    background-color: darkcyan;
+}
