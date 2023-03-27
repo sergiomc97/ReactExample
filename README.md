@@ -1,4 +1,3 @@
-```markdown
 # Componente Boton en React
 
 El componente Boton es un botón que puede cambiar su estilo dependiendo de si ha sido clickeado o no. Este componente es importado desde el archivo `boton.js` y utiliza un archivo de estilos `boton.css` para definir sus estilos.
